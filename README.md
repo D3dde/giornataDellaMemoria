@@ -1,12 +1,12 @@
 # Giornata della memoria
 
 
-### Sviluppato da
+###Sviluppato da
 
 [@D3dde](https://github.com/D3dde)
 [@pokead](https://github.com/pokead)
 
-### immagini
+###immagini
 
 
 > Famoso cancello di Auschwitz "il lavoro rende liberi"
@@ -48,3 +48,8 @@ i comandi risultano molto semplici:
 >blocco precedente > frecce indietro
 >focus su immagini > click su immagine
 >uscita da focus > esc
+
+### download
+
+> fare click sul link qui sotto per scaricare il gioco
+[Giornata della Memoria](https://github.com/D3dde/giornataDellaMemoria/releases/download/v1.0/giornataDellaMemoria.exe)
