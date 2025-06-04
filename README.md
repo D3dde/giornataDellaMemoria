@@ -45,11 +45,14 @@
 i comandi risultano molto semplici:
 
 >blocco successivo > freccia avanti
+>
 >blocco precedente > frecce indietro
+>
 >focus su immagini > click su immagine
+>
 >uscita da focus > esc
 
 ### download
 
-> fare click sul link qui sotto per scaricare il gioco
+> fare click su questo link per scaricare il gioco
 [Giornata della Memoria](https://github.com/D3dde/giornataDellaMemoria/releases/download/v1.0/giornataDellaMemoria.exe)
