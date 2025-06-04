@@ -1,12 +1,12 @@
 # Giornata della memoria
 
 
-###Sviluppato da
+### Sviluppato da
 
 [@D3dde](https://github.com/D3dde)
 [@pokead](https://github.com/pokead)
 
-###immagini
+### immagini
 
 
 > Famoso cancello di Auschwitz "il lavoro rende liberi"
@@ -45,8 +45,6 @@
 i comandi risultano molto semplici:
 
 >blocco successivo > freccia avanti
-blocco precedente > frecce indietro
-focus su immagini > click su immagine
-uscita da focus > esc
-
-###Fine
+>blocco precedente > frecce indietro
+>focus su immagini > click su immagine
+>uscita da focus > esc
